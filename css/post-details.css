@@ -1,0 +1,9 @@
+body {
+    background-color: slateblue;
+}
+button {
+    cursor: pointer;
+}
+ol {
+    width: 25%;
+}

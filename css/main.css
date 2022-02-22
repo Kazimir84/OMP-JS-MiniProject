@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://img.eurointegration.com.ua/images/doc/a/e/aeb766a-human-rights-690.jpg");
+    background-size: 100%;
+}
+.btnUserDetails {
+    text-decoration: none;
+    color: black;
+}
+button {
+    cursor: pointer;
+    border: 1px solid orangered;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: orangered;
+}
