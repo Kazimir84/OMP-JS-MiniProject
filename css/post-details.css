@@ -1,5 +1,7 @@
 body {
-    background-color: slateblue;
+    /*background-color: slateblue;*/
+    background-image: url("/images/user-post.jpg");
+    background-size: cover;
 }
 button {
     cursor: pointer;

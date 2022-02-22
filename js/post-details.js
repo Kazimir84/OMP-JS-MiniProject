@@ -12,7 +12,9 @@ titles.forEach((title) => {
                         border: 1px solid red;
                         padding: 5px;
                         border-radius: 5px;
-                        background-color: bisque;
+                        // background-color: bisque;
+                        background: linear-gradient(45deg, rgb(178 193 180), rgb(255 90 12));
+                        opacity: 0.9;
         `;
     container.append(divTitle);
     for (let titleKey in title) {
@@ -40,6 +42,7 @@ fetch(`https://jsonplaceholder.typicode.com/posts/${userId}/comments`)
                                padding: 5px;
                                border-radius: 5px;
                                background-color: yellow;
+                               opacity: 0.8;
             `;
             divOl.append(olTitle);
             function getData(response) {
