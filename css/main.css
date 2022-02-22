@@ -1,6 +1,6 @@
 body {
     /*background-image: url("https://img.eurointegration.com.ua/images/doc/a/e/aeb766a-human-rights-690.jpg");*/
-    background-image: url("/images/users.jpg");
+    background-image: url("../images/users.jpg");
     background-size: 110%;
 }
 .btnUserDetails {

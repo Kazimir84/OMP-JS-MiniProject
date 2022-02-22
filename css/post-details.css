@@ -1,6 +1,6 @@
 body {
     /*background-color: slateblue;*/
-    background-image: url("/images/user-post.jpg");
+    background-image: url("../images/user-post.jpg");
     background-size: cover;
 }
 button {
